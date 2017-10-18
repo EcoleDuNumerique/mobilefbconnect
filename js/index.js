@@ -1,3 +1,4 @@
+//N'oubliez pas de charger le pluggin cordova-plugin-facebook4
 document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
   var app = new App();
